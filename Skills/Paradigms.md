@@ -17,7 +17,7 @@
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
   - Domain-specific languages: 🎓 known
-  - Multi-paradigm programming: 🎓 known
+  - Multi-paradigm programming: 🙋 explained
   - Metaprogramming: 👂 heard
   - Actor model: 👂 heard
   - Lambda calculus: 🎓 known
@@ -28,10 +28,10 @@
   - Class composition: 🎓 known
 - OOP basics
   - Constructor: 🙋 explained
-  - Operator `new`: 🖐️ used
-  - Static method: 🖐️ used
+  - Operator `new`: 🙋 explained
+  - Static method: 🙋 explained
   - Method: 🙋 explained
-  - Async method: 🖐️ used
+  - Async method: 🙋 explained
   - Getters, Setters: 🙋 explained
   - Public fields: 🙋 explained
   - Private fields: 🙋 explained
@@ -43,10 +43,10 @@
   - Interface: 🙋 explained
   - Encapsulation: 🙋 explained
   - Hidden class: 🙋 explained
-  - Object form: 🎓 known
-  - Instance: 🖐️ used
+  - Object form: 🙋 explained
+  - Instance: 🙋 explained
   - Introspection: 🎓 known
-  - Reflection: 🎓 known
+  - Reflection: 🙋 explained
   - The diamond problem: 👂 heard
 - GRASP
   - Information expert: 🎓 known
@@ -69,7 +69,7 @@
   - Abstract Factory
   - Adapter: 🖐️ used
   - Observer: 🙋 explained
-  - Strategy: 🎓 known
+  - Strategy: 🖐️ used
   - Facade: 🎓 known
   - Proxy: 🙋 explained
   - Chain of Responsibility: 🎓 known
@@ -77,7 +77,7 @@
   - Iterator: 🖐️ used
   - State: 🎓 known
   - Bridge: 👂 heard
-  - Builder: 👂 heard
+  - Builder: 🖐️ used
   - Prototype: 🙋 explained
   - Composite: 🎓 known
   - Decorator: 🎓 known
@@ -86,6 +86,6 @@
   - Memento: 👂 heard
   - Template Method: 🎓 known
   - Visitor: 👂 heard
-  - Reactor: 👂 heard
+  - Reactor: 🖐️ used
   - Active object: 🎓 known
   - Delegation: 🎓 known
