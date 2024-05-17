@@ -106,7 +106,6 @@
   - Navigation component: 🖐️ used
   - Paging library: 👂 heard
   - Room: 🖐️ used
-  - WorkManager: 👂 heard
   - CameraX: 👂 heard
 - Advanced Topics
   - MVVM: 🎓 known

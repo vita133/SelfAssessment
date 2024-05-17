@@ -44,7 +44,7 @@
   - Arguments: 🙋 explained
   - Return type: 🙋 explained
   - Function signature: 🙋 explained
-  - `varargs`: 🎓	known
+  - `varargs`: 🎓 known
   - Function overloading: 🙋 explained
   - Extension functions: 🙋 explained
   - Inline functions: 🙋 explained
@@ -62,7 +62,7 @@
   - Companion objects: 🙋 explained
   - References: 🙋 explained
   - Mutable & immutable classes: 🙋 explained
-  - Enum classes: 👂	heard
+  - Enum classes: 👂 heard
   - Class `Any`: 🙋 explained
   - Operator overloading: 🎓 known
   - Data classes: 🙋 explained
@@ -182,4 +182,3 @@
   - Flow cancellation: 👂 heard
   - Combining multiple flows: 👂 heard
   - `StateFlow` & `SharedFlow`: 👂 heard
-

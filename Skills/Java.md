@@ -55,8 +55,8 @@
   - `final` class: 🙋 explained
   - `final` method: 🙋 explained
   - `final` property: 🙋 explained
-  - Nested class: 🖐️	used
-  - Inner class: 🖐️	used
+  - Nested class: 🖐️ used
+  - Inner class: 🖐️ used
   - `public`: 🙋 explained
   - `private`: 🙋 explained
   - `protected`: 🙋 explained
