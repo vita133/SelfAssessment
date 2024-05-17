@@ -2,17 +2,17 @@
 
 - Android Basics
   - Android Studio: 🙋 explained
-  - Android project structure:🙋  explained
+  - Android project structure: 🙋 explained
   - Activity lifecycle: 🖐️ used
   - Fragments: 🙋 explained
   - Intents: 🖐️ used
   - Views and ViewGroups: 🖐️ used
   - LinearLayout: 🙋 explained
-  - RelativeLayout: 🙋  explained
+  - RelativeLayout: 🙋 explained
   - ConstraintLayout: 🙋 explained
   - FrameLayout: 🙋 explained
   - TableLayout: 🙋 explained
-  - res/values: 🙋  explained
+  - res/values: 🙋 explained
   - strings.xml: 🙋 explained
   - colors.xml: 🙋 explained
   - styles.xml: 🙋 explained
@@ -23,7 +23,7 @@
   - EditText: 🙋 explained
   - Button: 🙋 explained
   - ImageView: 🙋 explained
-  - RecyclerView: 🙋  explained
+  - RecyclerView: 🙋 explained
   - ListView: 🖐️ used
   - ScrollView: 🖐️ used
   - CardView: 🙋 explained
@@ -39,9 +39,9 @@
   - Starting activities for result: 🙋 explained
   - LocalBroadcastManager: 👂 heard
   - System broadcasts: 👂 heard
-  - Custom broadcasts: 🖐️  used
+  - Custom broadcasts: 🖐️ used
 - Data Storage
-  - SharedPreferences: 🖐️  used
+  - SharedPreferences: 🖐️ used
   - Internal storage: 🖐️ used
   - External storage: 🖐️ used
   - SQLite database: 🙋 explained

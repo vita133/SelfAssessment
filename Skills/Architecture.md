@@ -85,7 +85,7 @@
   - Integration with subsystems: 👂 heard
   - Enterprise vision: 👂 heard
   - Enterprise capabilities: 👂 heard
-  - Project scope:🎓 known
+  - Project scope: 🎓 known
   - Enterprise service bus: 👂 heard
   - Service-oriented architecture: 🎓 known
   - Microservices: 🎓 known

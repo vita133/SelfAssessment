@@ -84,26 +84,18 @@ Total: you have `0` of `98` skills, `98` to be upgraded, and `0` above needed
 | Race conditions | 👂 heard | ⟶  | 🎓 known |
 | Callback-last-error-first | 🎓 known | ⟶  | 🖐️ used |
 | Promise | 🎓 known | ⟶  | 🖐️ used |
-| Async/await | 🎓 known | ⟶  | 🖐️ used |
 | Sync generator | 👂 heard | ⟶  | 🎓 known |
 | Async Generator | 👂 heard | ⟶  | 🎓 known |
-| Async Iterator | 👂 heard | ⟶  | 🎓 known |
-| Event | 🎓 known | ⟶  | 🖐️ used |
-| Signal | 🎓 known | ⟶  | 🖐️ used |
-| Stream | 🎓 known | ⟶  | 🖐️ used |
 | Locks | 👂 heard | ⟶  | 🎓 known |
 | callbackify | 🤷 unknown | ⟶  | 🎓 known |
 | promisify | 🤷 unknown | ⟶  | 🎓 known |
 | asyncify | 🤷 unknown | ⟶  | 🎓 known |
 | EventEmitter | 🎓 known | ⟶  | 🖐️ used |
-| Readable | 🎓 known | ⟶  | 🖐️ used |
-| Writable | 🎓 known | ⟶  | 🖐️ used |
 | Transform | 👂 heard | ⟶  | 🖐️ used |
 | `setImmediate` | 👂 heard | ⟶  | 🖐️ used |
 | `nextTick` | 👂 heard | ⟶  | 🖐️ used |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortSignal | 🤷 unknown | ⟶  | 🎓 known |
-| Promise hell | 👂 heard | ⟶  | 🎓 known |
 | ref() and unref() | 🤷 unknown | ⟶  | 👂 heard |
 | Error handling in async code | 👂 heard | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
@@ -117,15 +109,12 @@ Total: you have `0` of `98` skills, `98` to be upgraded, and `0` above needed
 | Web Locks API | 🤷 unknown | ⟶  | 👂 heard |
 | Revealing constructor | 🤷 unknown | ⟶  | 🎓 known |
 
-Total: you have `14` of `50` skills, `36` to be upgraded, and `5` above needed
+Total: you have `22` of `50` skills, `28` to be upgraded, and `14` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
 | `try..catch` | 🎓 known | ⟶  | 🖐️ used |
 | Promise | 🎓 known | ⟶  | 🖐️ used |
-| Async/await | 🎓 known | ⟶  | 🖐️ used |
-| Async Iterator | 👂 heard | ⟶  | 🎓 known |
-| Event | 🎓 known | ⟶  | 🖐️ used |
 | callbackify | 🤷 unknown | ⟶  | 🎓 known |
 | promisify | 🤷 unknown | ⟶  | 🎓 known |
 | asyncify | 🤷 unknown | ⟶  | 🎓 known |
@@ -134,7 +123,6 @@ Total: you have `14` of `50` skills, `36` to be upgraded, and `5` above needed
 | `setImmediate` | 👂 heard | ⟶  | 🖐️ used |
 | AbortController | 🤷 unknown | ⟶  | 🖐️ used |
 | AbortSignal | 🤷 unknown | ⟶  | 🎓 known |
-| Promise hell | 👂 heard | ⟶  | 🎓 known |
 | Error handling in async code | 👂 heard | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise.all | 🤷 unknown | ⟶  | 🖐️ used |
@@ -143,7 +131,7 @@ Total: you have `14` of `50` skills, `36` to be upgraded, and `5` above needed
 | Promise.any | 🤷 unknown | ⟶  | 🖐️ used |
 | Revealing constructor | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `16` of `37` skills, `21` to be upgraded, and `2` above needed
+Total: you have `20` of `37` skills, `17` to be upgraded, and `12` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -154,29 +142,19 @@ Total: you have `16` of `37` skills, `21` to be upgraded, and `2` above needed
 | CAS operations | 🤷 unknown | ⟶  | 👂 heard |
 | libuv | 🤷 unknown | ⟶  | 🎓 known |
 | Race conditions | 👂 heard | ⟶  | 🖐️ used |
-| Dead locks | 👂 heard | ⟶  | 🖐️ used |
 | Live locks | 🤷 unknown | ⟶  | 🖐️ used |
 | Actor Model | 👂 heard | ⟶  | 🎓 known |
 | Callback-last-error-first | 🎓 known | ⟶  | 🖐️ used |
 | Thenable | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise | 🎓 known | ⟶  | 🖐️ used |
-| Async/await | 🎓 known | ⟶  | 🖐️ used |
 | Sync generator | 👂 heard | ⟶  | 🖐️ used |
 | Async Generator | 👂 heard | ⟶  | 🖐️ used |
-| Async Iterator | 👂 heard | ⟶  | 🖐️ used |
-| Event | 🎓 known | ⟶  | 🖐️ used |
-| Signal | 🎓 known | ⟶  | 🖐️ used |
-| Stream | 🎓 known | ⟶  | 🖐️ used |
-| Chain of responsibility | 👂 heard | ⟶  | 🖐️ used |
 | Middleware | 👂 heard | ⟶  | 🖐️ used |
 | Locks | 👂 heard | ⟶  | 🖐️ used |
 | callbackify | 🤷 unknown | ⟶  | 🖐️ used |
 | promisify | 🤷 unknown | ⟶  | 🖐️ used |
 | asyncify | 🤷 unknown | ⟶  | 🖐️ used |
 | EventEmitter | 🎓 known | ⟶  | 🖐️ used |
-| Observable/Observer | 🎓 known | ⟶  | 🖐️ used |
-| Readable | 🎓 known | ⟶  | 🖐️ used |
-| Writable | 🎓 known | ⟶  | 🖐️ used |
 | Transform | 👂 heard | ⟶  | 🖐️ used |
 | Async Pool | 🎓 known | ⟶  | 🖐️ used |
 | Async Queue | 🎓 known | ⟶  | 🖐️ used |
@@ -191,8 +169,6 @@ Total: you have `16` of `37` skills, `21` to be upgraded, and `2` above needed
 | Promise unhandled rejection | 🤷 unknown | ⟶  | 🖐️ used |
 | Promise double resolve | 🤷 unknown | ⟶  | 🖐️ used |
 | High resolution clock | 🤷 unknown | ⟶  | 🎓 known |
-| Callback hell | 🎓 known | ⟶  | 🖐️ used |
-| Promise hell | 👂 heard | ⟶  | 🖐️ used |
 | ref() and unref() | 🤷 unknown | ⟶  | 🖐️ used |
 | Error handling in async code | 👂 heard | ⟶  | 🖐️ used |
 | Better stack traces with return await | 🤷 unknown | ⟶  | 🖐️ used |
@@ -210,7 +186,7 @@ Total: you have `16` of `37` skills, `21` to be upgraded, and `2` above needed
 | Channel API | 🤷 unknown | ⟶  | 🎓 known |
 | Revealing constructor | 🤷 unknown | ⟶  | 🖐️ used |
 
-Total: you have `13` of `75` skills, `62` to be upgraded, and `6` above needed
+Total: you have `25` of `75` skills, `50` to be upgraded, and `19` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
