@@ -47,7 +47,7 @@
   - Prototype: 🙋 explained
   - Event: 🙋 explained
   - Type: 🙋 explained
-  - Flag: 📢	talked
+  - Flag: 📢 talked
   - Lexical scope: 🙋 explained
   - Code block: 🙋 explained
   - Conditions: 🙋 explained
@@ -142,29 +142,29 @@
   - URN: 🙋 explained
   - URI: 🙋 explained
 - Process and tools
-  - Compiler: 📢	talked
+  - Compiler: 📢 talked
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler: 🙋 explained
-  - Linter: 📢	talked
+  - Linter: 📢 talked
   - Polyfill: 🙋 explained
   - Interpreter: 🎓 known
   - Linker: 🙋 explained
-  - Dynamic linking: 📢	talked
-  - Static linking: 📢	talked
+  - Dynamic linking: 📢 talked
+  - Static linking: 📢 talked
   - Runtime: 🎓 known
   - Virtual machine: 🖐️ used
   - Register-based VM: 🖐️ used
   - Stack-based VM: 🖐️ used
   - Containerization: 🔬 researched
-  - Debugger: 📢	talked
+  - Debugger: 📢 talked
   - Tracing: 🙋 explained
   - Garbage collection: 🖐️ used
-  - Refactoring: 📢	talked
-  - Code review: 📢	talked
-  - Exception: 📢	talked
-  - Unittesting: 📢	talked
-  - git: 📢	talked
+  - Refactoring: 📢 talked
+  - Code review: 📢 talked
+  - Exception: 📢 talked
+  - Unittesting: 📢 talked
+  - git: 📢 talked
   - Github: 🙋 explained
   - Docker: 🔬 researched
   - Kubernetes: 🎓 known

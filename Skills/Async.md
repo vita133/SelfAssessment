@@ -60,8 +60,8 @@
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - `setImmediate` 👂 heard
-  - `nextTick` 👂 heard
+  - `setImmediate`: 👂 heard
+  - `nextTick`: 👂 heard
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
@@ -71,9 +71,9 @@
   - Callback hell: 🎓 known
   - Promise hell: 👂 heard
   - ref() and unref()
-  - Error handling in async code 👂 heard
+  - Error handling in async code: 👂 heard
   - Better stack traces with return await
-  - JSON streaming serialization 👂 heard
+  - JSON streaming serialization: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
