@@ -1,0 +1,117 @@
+## Android
+
+- Android Basics
+  - Android Studio: 🙋 explained
+  - Android project structure: 🎓 known
+  - Activity lifecycle: 🖐️ used
+  - Fragments: 🎓 known
+  - Intents: 🖐️ used
+  - Views and ViewGroups: 🖐️ used
+  - LinearLayout: 🙋 explained
+  - RelativeLayout: 🎓 known
+  - ConstraintLayout: 🙋 explained
+  - FrameLayout: 🙋 explained
+  - TableLayout: 🙋 explained
+  - res/values: 🎓 known
+  - strings.xml: 🎓 known
+  - colors.xml: 🙋 explained
+  - styles.xml: 🙋 explained
+  - R class: 👂 heard
+- User Interface (UI)
+  - XML layout files: 🙋 explained
+  - TextView: 🙋 explained
+  - EditText: 🙋 explained
+  - Button: 🙋 explained
+  - ImageView: 🙋 explained
+  - RecyclerView: 🎓 known
+  - ListView: 🎓 known
+  - ScrollView: 👂 heard
+  - CardView: 🙋 explained
+  - AppBar: 👂 heard
+  - Custom views: 🎓 known
+  - Material Design components: 🎓 known
+  - Themes and styles: 🙋 explained
+  - Animations and transitions: 👂 heard
+- Intents and Broadcast Receivers
+  - Explicit intents: 🙋 explained
+  - Implicit intents: 🎓 known
+  - Passing data between activities: 🙋 explained
+  - Starting activities for result: 🙋 explained
+  - LocalBroadcastManager: 👂 heard
+  - System broadcasts: 👂 heard
+  - Custom broadcasts: 👂 heard
+- Data Storage
+  - SharedPreferences: 👂 heard
+  - Internal storage: 🎓 known
+  - External storage: 🎓 known
+  - SQLite database: 👂 heard
+  - Room persistence library: 🎓 known
+  - Content providers: 👂 heard
+- Networking
+  - HttpURLConnection: 👂 heard
+  - OkHttp: 👂 heard
+  - Retrofit: 👂 heard
+  - JSONObject: 👂 heard
+  - Gson: 🖐️ used
+  - AsyncTask: 🎓 known
+  - Threading: 🎓 known
+  - Background services: 👂 heard
+- Services and Background Tasks
+  - Service lifecycle: 👂 heard
+  - IntentService: 👂 heard
+  - JobScheduler: 👂 heard
+  - WorkManager: 👂 heard
+  - BroadcastReceiver: 🎓 known
+  - AlarmManager: 👂 heard
+  - Foreground services: 🎓 known
+- Permissions
+  - Runtime permissions: 🎓 known
+  - Permission groups: 🎓 known
+  - Checking and requesting permissions: 👂 heard
+- Multimedia
+  - Playing audio: 👂 heard
+  - Playing video: 👂 heard
+  - Recording audio: 👂 heard
+  - Camera API: 👂 heard
+  - ExoPlayer: 👂 heard
+- Location and Maps
+  - Google Maps API: 👂 heard
+  - Location services: 👂 heard
+  - Geocoding and reverse geocoding: 👂 heard
+  - Geofencing: 👂 heard
+- Notifications
+  - Notification channels: 👂 heard
+  - Building notifications: 👂 heard
+  - Notification actions: 👂 heard
+  - Notification styles: 👂 heard
+  - Heads-up notifications: 👂 heard
+- Firebase Integration
+  - Firebase Authentication: 🖐️ used
+  - Firebase Realtime Database: 👂 heard
+  - Cloud Firestore: 👂 heard
+  - Firebase Cloud Messaging: 👂 heard
+  - Firebase Analytics: 👂 heard
+  - Firebase Crashlytics: 👂 heard
+  - Firebase Storage: 👂 heard
+  - Dependency Injection: 🙋 explained
+- Testing
+  - Unit testing with JUnit: 🙋 explained
+  - UI testing with Espresso: 👂 heard
+  - Mocking with Mockito: 🖐️ used
+  - Robolectric: 👂 heard
+- Jetpack Libraries
+  - ViewModel: 🎓 known
+  - LiveData: 🎓 known
+  - Data Binding: 🎓 known
+  - Navigation component: 🖐️ used
+  - Paging library: 👂 heard
+  - Room: 🖐️ used
+  - CameraX: 👂 heard
+- Advanced Topics
+  - MVVM: 🎓 known
+  - MVI: 👂 heard
+  - MVP: 👂 heard
+  - ProGuard and R8: 👂 heard
+  - Performance optimization: 👂 heard
+  - App bundles: 👂 heard
+  - Custom ROMs and rooting: 👂 heard
