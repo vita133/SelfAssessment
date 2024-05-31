@@ -50,6 +50,9 @@ const UNITS = [
   'NodeJS',
   'Paradigms',
   'Architecture',
+  'Java',
+  'Kotlin',
+  'Android',
 ];
 
 const wrongFormat = (msg, file) => {
