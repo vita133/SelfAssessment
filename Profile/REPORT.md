@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-445&nbsp;/&nbsp;470&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/vita133/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-823&nbsp;/&nbsp;848&nbsp;/&nbsp;1109-009933?style=flat-square)](https://github.com/vita133/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-445&nbsp;/&nbsp;470&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/vita133/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-823&nbsp;/&nbsp;848&nbsp;/&nbsp;1109-009933?style=flat-square)](https://github.com/vita133/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/vita133/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-445&nbsp;/&nbsp;470&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/vita133/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-823&nbsp;/&nbsp;848&nbsp;/&nbsp;1109-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -61,6 +61,43 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `35` | `36` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `18` | `18` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `18` | `18` |
+| [Java](/Skills/Java.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Code basics | `22` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Methods | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Recursion: 🙋 explained | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Classes and objects | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enum classes: 🙋 explained | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Class `Object`: 🙋 explained | `2` | `2` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Packages: 🙋 explained | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Object-Oriented Programming (OOP) | `18` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Generics | `9` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functional programming | `4` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Input/Output | `18` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Multithreading | `10` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Date/Time API: 🖐️ used | `0` | `0` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Spring Framework | `5` | `5` |
+| [Kotlin](/Skills/Kotlin.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `70` | `70` |
+| &nbsp;&nbsp;&nbsp;&nbsp; OOP | `27` | `27` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Generics | `11` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Functional programming | `15` | `15` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Input\Output Streams | `21` | `21` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async programming | `32` | `32` |
+| [Android](/Skills/Android.md) | | |
+| &nbsp;&nbsp;&nbsp;&nbsp; Android Basics | `16` | `16` |
+| &nbsp;&nbsp;&nbsp;&nbsp; User Interface (UI) | `14` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Intents and Broadcast Receivers | `7` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data Storage | `6` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Networking | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Services and Background Tasks | `7` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Permissions | `3` | `3` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Multimedia | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Location and Maps | `4` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Notifications | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Firebase Integration | `8` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Testing | `4` | `4` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Jetpack Libraries | `7` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Advanced Topics | `7` | `7` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 
