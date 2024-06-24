@@ -14,27 +14,27 @@
   - Platform-agnostic: 👂 heard
   - Transport-agnostic: 👂 heard
   - Framework-agnostic: 👂 heard
-  - Code coverage: 🎓 known
+  - Code coverage: 🙋 explained
   - Cohesion: 🎓 known
   - Coupling: 🎓 known
-  - Cyclomatic complexity: 👂 heard
+  - Cyclomatic complexity: 🙋 explained
   - Reliability: 🙋 explained
   - Quality: 🙋 explained
   - Availability: 🙋 explained
   - Flexibility: 🙋 explained
   - Law of Demeter (LoD): 🙋 explained
 - Application architecture
-  - Isolation between layer: 🎓 known
-  - Domain-specific language (DSL): 🎓 known
-  - System vs applied code: 👂 heard
+  - Isolation between layer: 🙋 explained
+  - Domain-specific language (DSL): 🙋 explained
+  - System vs applied code: 🎓 known
   - Multilayer approach: 🎓 known
   - Hexagonal architecture: 👂 heard
   - Separation of concerns (SoC): 👂 heard
-  - Metaprogramming: 👂 heard
-  - Inversion of control (IoC): 👂 heard
-  - Dependency injection (DI): 🖐️ used
-  - Clean architecture: 🎓 known
-  - Domain-driven design (DDD): 👂 heard
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🙋 explained
+  - Dependency injection (DI): 🙋 explained
+  - Clean architecture: 🙋 explained
+  - Domain-driven design (DDD): 🙋 explained
   - Pub/sub: 👂 heard
   - Message brocker: 👂 heard
   - Agent: 👂 heard
@@ -46,7 +46,7 @@
   - Entity-relationship diagram: 🖐️ used
   - IDEF1X
   - UML: 🖐️ used
-  - Work breakdown structure: 🎓 known
+  - Work breakdown structure: 🖐️ used
   - Budget estimation: 🎓 known
   - Distributed systems: 🎓 known
   - High-intensive computing: 🎓 known
@@ -57,26 +57,26 @@
   - PaaS: 👂 heard
   - SaaS: 👂 heard
   - FaaS clouds: 👂 heard
-  - Serverless: 👂 heard
-  - Vendor lock-in: 👂 heard
+  - Serverless: 🙋 explained
+  - Vendor lock-in: 🙋 explained
   - Bus factor: 👂 heard
 - Solution architecture
   - A software requirements specification (SRS): 🎓 known
   - Solution visions: 🎓 known
   - Solution capabilities: 🎓 known
-  - System design: 🎓 known
-  - Process modelling: 🎓 known
+  - System design: 🙋 explained
+  - Process modelling: 🙋 explained
   - Data modelling: 🎓 known
   - Solution components: 🎓 known
   - Risk assessment: 👂 heard
   - Non Functional Requirements (NFR): 👂 heard
-  - Clouds: 🎓 known
+  - Clouds: 🙋 explained
   - BPMN: 👂 heard
   - Low-code: 🎓 known
   - No-code: 🎓 known
   - Metric: 🎓 known
   - Metric abuse: 👂 heard
-  - ACID: 👂 heard
+  - ACID: 🎓 known
   - CAP theorem: 👂 heard
   - Single source of truth (SSOT): 👂 heard
 - Enterprise architecture
@@ -85,10 +85,10 @@
   - Integration with subsystems: 👂 heard
   - Enterprise vision: 👂 heard
   - Enterprise capabilities: 👂 heard
-  - Project scope: 👂 heard
+  - Project scope: 🎓 known
   - Enterprise service bus: 👂 heard
-  - Service-oriented architecture: 👂 heard
-  - Microservices: 👂 heard
+  - Service-oriented architecture: 🎓 known
+  - Microservices: 🎓 known
   - Process choreography: 👂 heard
   - Service orchestration: 👂 heard
   - Data warehouse: 👂 heard
@@ -96,5 +96,5 @@
   - OLAP: 👂 heard
   - OLTP: 👂 heard
   - Conways Law: 👂 heard
-  - Quality assurance: 👂 heard
-  - Engineering Hygiene: 👂 heard
+  - Quality assurance: 🎓 known
+  - Engineering Hygiene: 🙋 explained

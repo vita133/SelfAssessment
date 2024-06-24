@@ -2,18 +2,18 @@
 
 - Android Basics
   - Android Studio: 🙋 explained
-  - Android project structure: 🎓 known
+  - Android project structure: 🙋 explained
   - Activity lifecycle: 🖐️ used
-  - Fragments: 🎓 known
+  - Fragments: 🙋 explained
   - Intents: 🖐️ used
   - Views and ViewGroups: 🖐️ used
   - LinearLayout: 🙋 explained
-  - RelativeLayout: 🎓 known
+  - RelativeLayout: 🙋 explained
   - ConstraintLayout: 🙋 explained
   - FrameLayout: 🙋 explained
   - TableLayout: 🙋 explained
-  - res/values: 🎓 known
-  - strings.xml: 🎓 known
+  - res/values: 🙋 explained
+  - strings.xml: 🙋 explained
   - colors.xml: 🙋 explained
   - styles.xml: 🙋 explained
   - R class: 👂 heard
@@ -23,13 +23,13 @@
   - EditText: 🙋 explained
   - Button: 🙋 explained
   - ImageView: 🙋 explained
-  - RecyclerView: 🎓 known
-  - ListView: 🎓 known
-  - ScrollView: 👂 heard
+  - RecyclerView: 🙋 explained
+  - ListView: 🖐️ used
+  - ScrollView: 🖐️ used
   - CardView: 🙋 explained
-  - AppBar: 👂 heard
-  - Custom views: 🎓 known
-  - Material Design components: 🎓 known
+  - AppBar: 🖐️ used
+  - Custom views: 🖐️ used
+  - Material Design components: 🖐️ used
   - Themes and styles: 🙋 explained
   - Animations and transitions: 👂 heard
 - Intents and Broadcast Receivers
@@ -39,79 +39,79 @@
   - Starting activities for result: 🙋 explained
   - LocalBroadcastManager: 👂 heard
   - System broadcasts: 👂 heard
-  - Custom broadcasts: 👂 heard
+  - Custom broadcasts: 🖐️ used
 - Data Storage
-  - SharedPreferences: 👂 heard
-  - Internal storage: 🎓 known
-  - External storage: 🎓 known
-  - SQLite database: 👂 heard
-  - Room persistence library: 🎓 known
-  - Content providers: 👂 heard
+  - SharedPreferences: 🖐️ used
+  - Internal storage: 🖐️ used
+  - External storage: 🖐️ used
+  - SQLite database: 🙋 explained
+  - Room persistence library: 🙋 explained
+  - Content providers: 🙋 explained
 - Networking
   - HttpURLConnection: 👂 heard
-  - OkHttp: 👂 heard
-  - Retrofit: 👂 heard
-  - JSONObject: 👂 heard
+  - OkHttp: 🖐️ used
+  - Retrofit: 🖐️ used
+  - JSONObject: 🖐️ used
   - Gson: 🖐️ used
   - AsyncTask: 🎓 known
-  - Threading: 🎓 known
-  - Background services: 👂 heard
+  - Threading: 🖐️ used
+  - Background services: 🖐️ used
 - Services and Background Tasks
-  - Service lifecycle: 👂 heard
-  - IntentService: 👂 heard
-  - JobScheduler: 👂 heard
-  - WorkManager: 👂 heard
+  - Service lifecycle: 🎓 known
+  - IntentService: 🎓 known
+  - JobScheduler: 🎓 known
+  - WorkManager: 🎓 known
   - BroadcastReceiver: 🎓 known
-  - AlarmManager: 👂 heard
+  - AlarmManager: 🎓 known
   - Foreground services: 🎓 known
 - Permissions
   - Runtime permissions: 🎓 known
   - Permission groups: 🎓 known
   - Checking and requesting permissions: 👂 heard
 - Multimedia
-  - Playing audio: 👂 heard
-  - Playing video: 👂 heard
-  - Recording audio: 👂 heard
-  - Camera API: 👂 heard
-  - ExoPlayer: 👂 heard
+  - Playing audio: 🖐️ used
+  - Playing video: 🖐️ used
+  - Recording audio: 🖐️ used
+  - Camera API: 🎓 known
+  - ExoPlayer: 🖐️ used
 - Location and Maps
-  - Google Maps API: 👂 heard
-  - Location services: 👂 heard
+  - Google Maps API: 🎓 known
+  - Location services: 🎓 known
   - Geocoding and reverse geocoding: 👂 heard
   - Geofencing: 👂 heard
 - Notifications
-  - Notification channels: 👂 heard
-  - Building notifications: 👂 heard
-  - Notification actions: 👂 heard
+  - Notification channels: 🎓 known
+  - Building notifications: 🎓 known
+  - Notification actions: 🎓 known
   - Notification styles: 👂 heard
-  - Heads-up notifications: 👂 heard
+  - Heads-up notifications: 🎓 known
 - Firebase Integration
   - Firebase Authentication: 🖐️ used
-  - Firebase Realtime Database: 👂 heard
-  - Cloud Firestore: 👂 heard
+  - Firebase Realtime Database: 🖐️ used
+  - Cloud Firestore: 🖐️ used
   - Firebase Cloud Messaging: 👂 heard
-  - Firebase Analytics: 👂 heard
+  - Firebase Analytics: 🎓 known
   - Firebase Crashlytics: 👂 heard
-  - Firebase Storage: 👂 heard
+  - Firebase Storage: 🎓 known
   - Dependency Injection: 🙋 explained
 - Testing
   - Unit testing with JUnit: 🙋 explained
-  - UI testing with Espresso: 👂 heard
-  - Mocking with Mockito: 🖐️ used
+  - UI testing with Espresso: 🎓 known
+  - Mocking with Mockito: 🎓 known
   - Robolectric: 👂 heard
 - Jetpack Libraries
-  - ViewModel: 🎓 known
-  - LiveData: 🎓 known
-  - Data Binding: 🎓 known
-  - Navigation component: 🖐️ used
+  - ViewModel: 🙋 explained
+  - LiveData: 🙋 explained
+  - Data Binding: 🖐️ used
+  - Navigation component: 🙋 explained
   - Paging library: 👂 heard
-  - Room: 🖐️ used
+  - Room: 🙋 explained
   - CameraX: 👂 heard
 - Advanced Topics
-  - MVVM: 🎓 known
-  - MVI: 👂 heard
-  - MVP: 👂 heard
+  - MVVM: 🙋 explained
+  - MVI: 🎓 known
+  - MVP: 🎓 known
   - ProGuard and R8: 👂 heard
   - Performance optimization: 👂 heard
-  - App bundles: 👂 heard
-  - Custom ROMs and rooting: 👂 heard
+  - App bundles: 🎓 known
+  - Custom ROMs and rooting: 🎓 known

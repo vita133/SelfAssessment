@@ -14,7 +14,7 @@
   - Event ports
   - libuv
   - Race conditions: 👂 heard
-  - Dead locks: 👂 heard
+  - Dead locks: 🙋 explained
   - Live locks
   - Concurrent programming: 🎓 known
   - Parallel programming: 🎓 known
@@ -26,18 +26,18 @@
   - Callback-last-error-first: 🎓 known
   - Thenable
   - Promise: 🎓 known
-  - Async/await: 🎓 known
+  - Async/await: 🙋 explained
   - Future: 👂 heard
   - Deferred: 👂 heard
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
-  - Async Iterator: 👂 heard
-  - Event: 🎓 known
-  - Coroutine: 🖐️ used
+  - Async Iterator: 🙋 explained
+  - Event: 🙋 explained
+  - Coroutine: 🙋 explained
   - Goroutine: 🖐️ used
-  - Signal: 🎓 known
-  - Stream: 🎓 known
-  - Chain of responsibility: 👂 heard
+  - Signal: 🙋 explained
+  - Stream: 🙋 explained
+  - Chain of responsibility: 🙋 explained
   - Middleware: 👂 heard
   - Locks: 👂 heard
 - Async adapters and utils
@@ -48,9 +48,9 @@
   - Async compose
 - Async abstractions interfaces
   - EventEmitter: 🎓 known
-  - Observable/Observer: 🎓 known
-  - Readable: 🎓 known
-  - Writable: 🎓 known
+  - Observable/Observer: 🙋 explained
+  - Readable: 🙋 explained
+  - Writable: 🙋 explained
   - Transform: 👂 heard
   - Async Pool: 🎓 known
   - Async Queue: 🎓 known
@@ -66,10 +66,10 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics: 🎓 known
+  - Atomics: 🙋 explained
   - High resolution clock
-  - Callback hell: 🎓 known
-  - Promise hell: 👂 heard
+  - Callback hell: 🙋 explained
+  - Promise hell: 🙋 explained
   - ref() and unref()
   - Error handling in async code: 👂 heard
   - Better stack traces with return await

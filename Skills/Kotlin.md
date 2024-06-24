@@ -104,7 +104,7 @@
   - Method with type arguments: 🙋 explained
   - Type erasure: 👂 heard
   - Upper bound: 🖐️ used
-  - Multiple bounds `where`: 🎓 known
+  - Multiple bounds `where`: 🙋 explained
   - Covariant type args `out`: 🎓 known
   - Covariant type args `in`: 🎓 known
   - Input projection `in`: 👂 heard
@@ -120,13 +120,13 @@
   - Callable references: 🙋 explained
   - `noinline`: 👂 heard
   - `crossinline`: 👂 heard
-  - `with`: 🖐️ used
+  - `with`: 🙋 explained
   - `let`: 🖐️ used
   - `run`: 🖐️ used
-  - `apply`: 🖐️ used
+  - `apply`: 🙋 explained
   - `also`: 🖐️ used
   - `takeif`: 👂 heard
-  - Custom scope functions: 👂 heard
+  - Custom scope functions: 🖐️ used
 - Input\Output Streams
   - `readLine`: 🙋 explained
   - `readIn`: 🙋 explained
@@ -153,29 +153,29 @@
   - `Thread`: 🙋 explained
   - `ExecutorServices`: 👂 heard
   - Synchronizations: 🎓 known
-  - Atomic types: 👂 heard
-  - Atomic operations: 👂 heard
-  - Deadlocks: 🎓 known
+  - Atomic types: 🖐️ used
+  - Atomic operations: 🖐️ used
+  - Deadlocks: 🖐️ used
   - Race conditions: 🎓 known
   - Live locks: 👂 heard
   - Starvation: 👂 heard
   - Synchronized collections: 🎓 known
   - `runBlocking`: 🎓 known
   - `launch`: 🎓 known
-  - `async`: 🎓 known
+  - `async`: 🖐️ used
   - `suspend` functions: 🖐️ used
   - Structures concurrency: 👂 heard
   - Cotoutine Context: 🎓 known
   - `Dispatcher`: 👂 heard
   - `Job`: 👂 heard
   - `Name`: 👂 heard
-  - `CorutineExceptionHandler`: 👂 heard
+  - `CorutineExceptionHandler`: 🎓 known
   - Coroutine Scope: 🎓 known
   - Cancellation & Timeouts: 👂 heard
   - `withContext{...}` function: 👂 heard
   - `suspendCancellableCoroutine{...}` function: 👂 heard
   - Cold & Hot Flows: 👂 heard
-  - Intermediate & terminal operators: 👂 heard
+  - Intermediate & terminal operators: 🖐️ used
   - `flowOf`: 👂 heard
   - `flow{...}`: 👂 heard
   - `callbackFlow{...}`: 👂 heard

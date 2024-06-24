@@ -24,55 +24,55 @@
 - Relational
   - Entity-Relationship Diagram: 🖐️ used
   - Normal forms: 🎓 known
-  - Indexing: 🎓 known
-  - Primary keys: 🎓 known
-  - Foreign keys: 🎓 known
-  - Transactions: 👂 heard
+  - Indexing: 🙋 explained
+  - Primary keys: 🙋 explained
+  - Foreign keys: 🙋 explained
+  - Transactions: 🙋 explained
   - Views: 🎓 known
-  - Subqueries: 🎓 known
-  - Stored procedures: 👂 heard
-  - SQL functions: 👂 heard
+  - Subqueries: 🙋 explained
+  - Stored procedures: 🙋 explained
+  - SQL functions: 🙋 explained
   - Materialized views: 👂 heard
   - Replications: 👂 heard
   - Virtualization: 🎓 known
 - SQL
-  - `SELECT`: 🖐️ used
-  - `INSERT`: 🖐️ used
-  - `UPDATE`: 🖐️ used
-  - `DELETE`: 🖐️ used
-  - `LIMIT`: 🎓 known
-  - `OFFSET`: 👂 heard
-  - `ORDER BY`: 🖐️ used
-  - `GROUP BY`: 🖐️ used
-  - `HAVING`: 🖐️ used
-  - `EXISTS`: 🖐️ used
-  - `JOIN`: 🖐️ used
-  - `INNER JOIN`: 🖐️ used
-  - `LEFT JOIN`: 🖐️ used
-  - `RIGHT JOIN`: 🖐️ used
-  - `UNION`: 🖐️ used
-  - `DISTINCT`: 🖐️ used
-  - `WHERE`: 🖐️ used
+  - `SELECT`: 🙋 explained
+  - `INSERT`: 🙋 explained
+  - `UPDATE`: 🙋 explained
+  - `DELETE`: 🙋 explained
+  - `LIMIT`: 🙋 explained
+  - `OFFSET`: 🖐️ used
+  - `ORDER BY`: 🙋 explained
+  - `GROUP BY`: 🙋 explained
+  - `HAVING`: 🙋 explained
+  - `EXISTS`: 🙋 explained
+  - `JOIN`: 🙋 explained
+  - `INNER JOIN`: 🙋 explained
+  - `LEFT JOIN`: 🙋 explained
+  - `RIGHT JOIN`: 🙋 explained
+  - `UNION`: 🙋 explained
+  - `DISTINCT`: 🙋 explained
+  - `WHERE`: 🙋 explained
   - `LIKE`: 🖐️ used
-  - `IN`: 🖐️ used
-  - `BETWEEN`: 👂 heard
-  - `CREATE TABLE`: 🖐️ used
-  - `ALTER TABLE`: 🖐️ used
-  - `DROP TABLE`: 🖐️ used
-  - `PRIMARY KEY`: 🖐️ used
-  - `FOREIGN KEY`: 🖐️ used
-  - `CHECK`: 🖐️ used
-  - `DEFAULT`: 🖐️ used
-  - `INDEX`: 🖐️ used
-  - `UNIQUE`: 🖐️ used
+  - `IN`: 🙋 explained
+  - `BETWEEN`: 🙋 explained
+  - `CREATE TABLE`: 🙋 explained
+  - `ALTER TABLE`: 🙋 explained
+  - `DROP TABLE`: 🙋 explained
+  - `PRIMARY KEY`: 🙋 explained
+  - `FOREIGN KEY`: 🙋 explained
+  - `CHECK`: 🙋 explained
+  - `DEFAULT`: 🙋 explained
+  - `INDEX`: 🙋 explained
+  - `UNIQUE`: 🙋 explained
   - `GRANT`: 👂 heard
   - `REVOKE`: 👂 heard
   - `DENY`: 👂 heard
   - `EXPLAIN`: 👂 heard
 - Engines
-  - PostgreSQL: 👂 heard
-  - Oracle: 👂 heard
-  - MySQL: 🖐️ used
+  - PostgreSQL: 🙋 explained
+  - Oracle: 🙋 explained
+  - MySQL: 🙋 explained
   - MariaDB: 👂 heard
   - MS SQL Server: 👂 heard
   - Redis: 👂 heard
@@ -81,14 +81,14 @@
   - Memcached: 👂 heard
   - Riak: 👂 heard
   - DB2: 👂 heard
-  - SQLite: 🖐️ used
+  - SQLite: 🙋 explained
   - DynamoDB: 👂 heard
-  - Firebase: 👂 heard
+  - Firebase: 🙋 explained
 - Data engineering
   - Data warehousing: 👂 heard
   - Business intelligence: 👂 heard
   - Big data: 🎓 known
   - Data analysis: 🎓 known
   - AI tools: 🎓 known
-  - Cloud databases: 🎓 known
+  - Cloud databases: 🙋 explained
   - Data Visualization: 👂 heard

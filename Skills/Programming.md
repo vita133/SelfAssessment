@@ -57,8 +57,8 @@
   - Interface: 🙋 explained
   - Namespaces: 🙋 explained
   - Call stack: 🙋 explained
-  - Naming conventions: 🎓 known
-  - Coding conventions: 🎓 known
+  - Naming conventions: 🙋 explained
+  - Coding conventions: 🙋 explained
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
   - Kebab case: 🙋 explained
@@ -70,7 +70,7 @@
   - Reference types: 🙋 explained
   - Type systems: 🙋 explained
   - Strong typing: 🙋 explained
-  - Weak typing: 🎓 known
+  - Weak typing: 🙋 explained
   - Duck typing: 🎓 known
   - Static typing: 🙋 explained
   - Dynamic typing: 🙋 explained
@@ -79,7 +79,7 @@
   - Explicit typing: 🎓 known
   - Type inference: 🎓 known
   - Covariance: 🎓 known
-  - Contravariance: 🎓 known
+  - Contravariance: 🙋 explained
 - Functions
   - Signature: 🙋 explained
   - Argument: 🙋 explained
@@ -94,7 +94,7 @@
   - Recursion: 🚀 constructed
   - Tail call optimisation: 🖐️ used
   - Callback: 🙋 explained
-  - Listener: 🖐️ used
+  - Listener: 🙋 explained
   - Composition: 🚀 constructed
   - Pipe: 🚀 constructed
   - Memoize: 🙋 explained
@@ -103,7 +103,7 @@
   - Monad: 🎓 known
   - Monoid: 👂 heard
   - Generator: 🙋 explained
-  - Coroutine: 🎓 known
+  - Coroutine: 🙋 explained
 - Data structures
   - Array: 🙋 explained
   - Structure: 🙋 explained
@@ -130,7 +130,7 @@
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
   - JSON5: 🎓 known
-  - YAML: 🎓 known
+  - YAML: 🙋 explained
 - Networking
   - DNS: 🙋 explained
   - CDN: 🎓 known
@@ -188,7 +188,7 @@
   - Micro-optimization: 🎓 known
   - Nested loops: 🎓 known
   - Long method/function/procedure: 🙋 explained
-  - Long inheritance: 🎓 known
+  - Long inheritance: 🙋 explained
   - Large class/file: 🎓 known
   - Too many parameters: 🙋 explained
   - Pass-through parameters

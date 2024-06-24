@@ -102,12 +102,12 @@
   - `Runnable`: 🙋 explained
   - `Semaphore`: 👂 heard
   - `Lock`: 🖐️ used
-  - Atomic types and operations: 🎓 known
+  - Atomic types and operations: 🖐️ used
   - Monitors: 👂 heard
-  - `synchronized` methods: 🎓 known
-  - `synchronized` blocks: 🎓 known
-  - Synchronized collections: 🎓 known
-  - Deadlocks, race conditions: 🎓 known
+  - `synchronized` methods: 🖐️ used
+  - `synchronized` blocks: 🖐️ used
+  - Synchronized collections: 🖐️ used
+  - Deadlocks, race conditions: 🖐️ used
 - Date/Time API: 🖐️ used
 - Spring Framework
   - Spring Core: 🖐️ used
